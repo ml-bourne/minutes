@@ -31,3 +31,6 @@ Thomas Coudrat, Grischa Meyer, Peter Georgeson, Kian Ho, Mike Kuiper, Alistair W
 * Create a list of "things to learn" on GitHub: anyone can pick a topic, learn about it a bit more, then present it to everyone the next week
 * Could change to evenings: will poll via an issue to ask which evening would suit
 * Let's not emulate what already exists (Data Science Melbourne Meetup): try to be hands-on and not presentation style. That already exists and is done well already.
+
+### To Do
+* Kian: push the otto ipython notebook to github
