@@ -33,4 +33,5 @@ Thomas Coudrat, Grischa Meyer, Peter Georgeson, Kian Ho, Mike Kuiper, Alistair W
 * Let's not emulate what already exists (Data Science Melbourne Meetup): try to be hands-on and not presentation style. That already exists and is done well already.
 
 ### To Do
-* Kian: push the otto ipython notebook to github
+* ~~Kian: push the otto ipython notebook to github~~
+  * see https://github.com/ml-bourne/otto
