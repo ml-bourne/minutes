@@ -1,13 +1,8 @@
-# Attended
+## Attended
 
-Thomas Coudrat
-Grischa Meyer
-Peter Georgeson
-Kian Ho
-Mike Kuiper
-Alistair Walsh
+Thomas Coudrat, Grischa Meyer, Peter Georgeson, Kian Ho, Mike Kuiper, Alistair Walsh
 
-# Minutes
+## Minutes
 
 ### Chromecast + internet troubleshooting
 * Internet
