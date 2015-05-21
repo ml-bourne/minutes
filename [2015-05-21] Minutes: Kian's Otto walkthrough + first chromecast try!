@@ -19,14 +19,17 @@ Alistair Walsh
   * Can connect directly to "VLSCI_Chromecast" or connect to same network as the Chromecast (but then not connected to the internet!)
   * That will work great!
 
-### Kian's walkthrough
-* On the Otto dataset:
+### Topics on the day
+* Kian's walkthrough on the Otto dataset:
   * Loading data + glance at what it is
   * basic error checking
   * 2 classifiers
   * cross validation
   * test
-* Ask Kian a question on GitHub if you have one!
+  * Ask Kian a question on GitHub if you have one!
+* Alistair talked about Docker (potential topic soon!)
+* Grischa talked about DIGITS from NVIDIA
+ * https://developer.nvidia.com/devbox
   
 ### Future thoughts
 * Change room, at VLSCI or elsewhere
