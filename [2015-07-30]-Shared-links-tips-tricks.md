@@ -8,3 +8,9 @@ Comparing ROC curves by shape, using more that the AUC:
 
 P-value, explanation using generated data:
 * https://github.com/claresloggett/comp90014_workshops/tree/gh-pages
+
+Comparing performance of different classifiers
+* https://github.com/rcompton/ml_cheat_sheet
+
+FFT explained using sound analysis
+* https://github.com/AllenDowney/ThinkDSP
