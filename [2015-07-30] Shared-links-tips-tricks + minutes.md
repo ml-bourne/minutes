@@ -24,3 +24,7 @@ Comparing performance of different classifiers
 
 FFT explained using sound analysis
 * https://github.com/AllenDowney/ThinkDSP
+ 
+Choosing ML algorithm parameters
+* https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-parameters-optimize/
+
