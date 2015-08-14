@@ -28,3 +28,13 @@ FFT explained using sound analysis
 Choosing ML algorithm parameters
 * https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-parameters-optimize/
 
+Advice from a practitioner
+* https://jmetzen.github.io/2015-01-29/ml_advice.html
+
+Youtube "Data School"
+* https://www.youtube.com/watch?v=HGr1yQV3Um0
+* https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg
+
+
+A book for data analysis using python pandas, numpy, scklearn, ipython etc...
+* http://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf
